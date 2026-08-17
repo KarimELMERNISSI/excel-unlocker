@@ -28,6 +28,7 @@ xlsx_unlocker/
 ├── unlock.bat                        # Lanceur Windows automatique (Drag & Drop)
 │
 ├── DOCUMENTATION.md                  # Documentation technique détaillée et modèle OpenXML
+├── LICENSE                           # Licence open-source (MIT)
 ├── README.md                         # Présentation générale du projet
 ├── requirements.txt                  # Dépendances Python pour tests et manipulation
 └── .gitignore                        # Fichiers et dossiers exclus du suivi Git
@@ -74,3 +75,9 @@ Glissez-déposez un fichier `.xlsx` directement sur le fichier `unlock.bat` dans
 ## 4. Documentation Complète
 
 Pour une analyse détaillée du fonctionnement interne, des balises XML ciblées et du diagramme de flux d'exécution, consultez le fichier `DOCUMENTATION.md`.
+
+---
+
+## 5. Licence
+
+Ce projet est distribué sous licence open-source **MIT**. Consultez le fichier `LICENSE` pour plus de détails.
