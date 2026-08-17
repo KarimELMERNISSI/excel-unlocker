@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Excel backups & temporary files
+*.bak
+.~*
+~$*
+.tmp*
+
+# Data files & spreadsheets (ignore all excel files, preserve data/ folder)
+data/*
+!data/.gitkeep
+*.xlsx
+*.xlsm
+*.xls
+*.xltx
+*.xltm
